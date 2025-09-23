@@ -7,7 +7,7 @@ dos Grafos. O principal objetivo desse projeto é apresentar os conceitos teóri
 
 ## Desenvolvimento do projeto
 
-Esse projeto foi desenvolvido por [Ângelo Franzen](https://github.com/angelofranzen), [João Pedro Garlopa](https://github.com/JPEGarlopa), [João Vinicius Colombini](https://github.com/Jvfc745) e [Rodrigo dos Santos](https://github.com/Rodrigo5677), durante o ano de 2024, na Universidade Federal de São paulo (Unifesp), como um projeto de _Iniciação Científica_ orientado pelo [Prof. Tiago Macedo](https://github.com/tiagormacedo) e parcialmente financiado pelo [PICME](https://picme.obmep.org.br).
+Esse projeto foi desenvolvido por [Ângelo Franzen](https://github.com/angelofranzen), [João Pedro Garlopa](https://github.com/JPEGarlopa), [João Vinicius Colombini](https://github.com/Jvfc745) e [Rodrigo dos Santos](https://github.com/Rodrigo5677), durante o ano de 2024, na Universidade Federal de São Paulo (Unifesp), como um projeto de _Iniciação Científica_ orientado pelo [Prof. Tiago Macedo](https://github.com/tiagormacedo) e parcialmente financiado pelo [PICME](https://picme.obmep.org.br).
 
 
 ## Licença
