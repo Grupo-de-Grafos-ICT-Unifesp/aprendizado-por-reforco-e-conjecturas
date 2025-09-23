@@ -15,6 +15,6 @@ Esse projeto foi desenvolvido por [Ângelo Franzen](https://github.com/angelofra
 Este projeto está licenciado sob uma licença [Creative Commons Attribution-NonCommercial-ShareAlike](https://github.com/Grupo-de-Grafos-ICT-Unifesp/Aprendizado-por-reforco-e-Conjecturas/blob/1d74c441077e54d38e68252334a357deae0ecafd/LICENSE).
 
 
-### Bugs e solicitações de uso
+## Bugs e solicitações de uso
 
 Se você encontrar algum bug, tiver alguma ideia para melhorar alguma parte desse projeto, ou tiver alguma dúvida, sinta-se à vontade para entrar em contato conosco.  Nós agradecemos pelo seu interesse em nosso projeto e esperamos ouvir suas sugestões.
