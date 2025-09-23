@@ -1,4 +1,4 @@
-# Aprendizado por Reforço e Conjecturas em Teoria de Grafos
+# Aprendizado por reforço e conjecturas
 
 
 Abstract ...  Uma descrição mais detalhada, incluindo definições e exemplos dos conceitos necessários para entender essas conjecturas, está contida nas notas [Franzen, Garlopa, Colombini, dos Santos - .pdf]().
