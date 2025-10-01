@@ -2,7 +2,7 @@
 
 
 Em um artigo intitulado “Constructions in combinatorics via neural networks”, Adam Wagner utiliza ferramentas de aprendizado de máquina para construir contraexemplos para algumas conjecturas em Teoria
-dos Grafos. O principal objetivo desse projeto é apresentar os conceitos teóricos necessários para compreender algumas das conjecturas resolvidas nesse artigo. Nas notas [Aplicação de aprendizado de máquina na resolução de conjecturas em Teoria de Grafos](https://github.com/Grupo-de-Grafos-ICT-Unifesp/aprendizado-por-reforco-e-conjecturas/blob/039c746fc907dcfe4ab9411b52aa0c99f6ea46a7/Franzen%2C%20Garlopa%2C%20Colombini%2C%20dos%20Santos%20-%20Aplicacao%20de%20aprendizado%20de%20maquina%20na%20resolucao%20de%20conjecturas%20em%20Teoria%20de%20Grafos.pdf), esses conceitos são apresentados de maneira detalhada.
+dos Grafos. O principal objetivo desse projeto é apresentar os conceitos teóricos necessários para compreender algumas das conjecturas resolvidas nesse artigo. Nas notas [Aplicação de aprendizado de máquina na resolução de conjecturas em Teoria de Grafos](Franzen, Garlopa, Colombini, dos Santos - Aplicacao de aprendizado de maquina na resolucao de conjecturas em Teoria de Grafos.pdf), esses conceitos são apresentados de maneira detalhada.
 
 
 ## Desenvolvimento do projeto
